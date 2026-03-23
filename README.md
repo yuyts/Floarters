@@ -15,7 +15,7 @@ Floaters is a background-running radial launcher application for Windows.
 
 ## Configuration
 
-### Registering Applications (`apps.txt`)
+### Registering Applications 
 The applications displayed in the launcher can be edited from the settings by clicking the system tray indicator.
 
 ## How to Build
